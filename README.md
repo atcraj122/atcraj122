@@ -1,4 +1,5 @@
+Apna collage
 this is my fist git repository
-kumar
-<BR>
+kumar bhagat
+<br>
 Author Raj kumar
