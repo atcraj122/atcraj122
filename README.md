@@ -2,4 +2,4 @@
 this is my fist git repository
 kumar bhagat
 <br>
-Author Raj kumar
+Author Raj bhagat
